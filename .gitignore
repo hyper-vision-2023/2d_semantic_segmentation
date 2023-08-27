@@ -1,0 +1,6 @@
+2D\ Semantic\ Segmentation
+data
+env
+Pytorch-UNet
+*.pth
+*.jpg
